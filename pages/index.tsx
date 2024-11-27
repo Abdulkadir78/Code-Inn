@@ -5,7 +5,7 @@ import Hero from "../components/Hero";
 
 const Home: NextPage = () => {
   return (
-    <div className="container">
+    <div className="container mx-auto">
       <Brand />
       <Hero />
     </div>
